@@ -2,9 +2,9 @@
 
 namespace Athulyasanthosh\TestCalc;
 
+use Athulyasanthosh\TestCalc\Commands\TestCalcCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Athulyasanthosh\TestCalc\Commands\TestCalcCommand;
 
 class TestCalcServiceProvider extends PackageServiceProvider
 {

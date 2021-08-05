@@ -2,9 +2,9 @@
 
 namespace Athulyasanthosh\TestCalc\Tests;
 
+use Athulyasanthosh\TestCalc\TestCalcServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Athulyasanthosh\TestCalc\TestCalcServiceProvider;
 
 class TestCase extends Orchestra
 {
